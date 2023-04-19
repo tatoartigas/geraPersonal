@@ -22,3 +22,4 @@ git config --list --show-origin
 
 git log archivo
 
+git show archivo
