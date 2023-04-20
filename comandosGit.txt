@@ -26,7 +26,11 @@ git log
 
 git log --stat // muesta todo con mas detalle salgo con q
 
+git show
+
 git show archivo
+
+git log --stat  Muestra todos los commit salgo con q
 
 git reset codigo --hard // resetea todo a esa version
 
@@ -38,4 +42,8 @@ git checkout master archivo //me muestra la ultima version comiteada de ese arch
 
 git rm //borra el archivo de git sin eliminar el historial
 
+git commit -am "texto" // hace el add y el commit juntos
 
+git branch nombre // crea la rama con ese nombre
+
+git checkout rama // cambia de rama
