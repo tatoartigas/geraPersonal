@@ -22,4 +22,20 @@ git config --list --show-origin
 
 git log archivo
 
+git log
+
+git log --stat // muesta todo con mas detalle salgo con q
+
 git show archivo
+
+git reset codigo --hard // resetea todo a esa version
+
+git rest  codigo --soft // resetea solo lo que esta guardado no lo de la memoria.
+
+git checkout codigo archivo //me muesta ese archivo como estaba en la version del codigo que puse.
+
+git checkout master archivo //me muestra la ultima version comiteada de ese archivo en esa rama.
+
+git rm //borra el archivo de git sin eliminar el historial
+
+
