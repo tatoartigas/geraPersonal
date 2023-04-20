@@ -47,3 +47,8 @@ git commit -am "texto" // hace el add y el commit juntos
 git branch nombre // crea la rama con ese nombre
 
 git checkout rama // cambia de rama
+
+git branch // muestar las ramas que tengo y en cual estoy
+
+git merge rama // hace el merge dela rama donde esoty con la rama que indico
+
